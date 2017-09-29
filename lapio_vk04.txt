@@ -1,5 +1,5 @@
 testi
 on
 tämä
--yoda
+-yoda kai
 ???
